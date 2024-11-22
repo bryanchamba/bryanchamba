@@ -61,6 +61,6 @@ Siempre busco mantenerme al día con las tecnologías más recientes para crear 
 Estoy abierto a nuevas oportunidades y retos que me permitan seguir creciendo como desarrollador y aportar valor con mis conocimientos.
 
 📫 **Contáctame en:**
-- [💼 LinkedIn]([https://www.linkedin.com/in/tu-usuario](https://www.linkedin.com/in/bryan-alejandro-chamba-freire-fsd/))
+- [💼 LinkedIn](https://www.linkedin.com/in/bryan-alejandro-chamba-freire-fsd/)
 
 ¡Gracias por visitar mi perfil! 🚀

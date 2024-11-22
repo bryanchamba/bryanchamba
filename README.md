@@ -19,16 +19,29 @@ Hola, soy un **Full Stack Developer** con más de **9 años de experiencia** en 
 
 ---
 
-### 🚀 Tecnologías principales:
+### 🚀 Tecnologías y Habilidades Principales:
 
-| **Backend**         | **Frontend**    | **DevOps & Otros**  |
-|----------------------|-----------------|---------------------|
-| Python/Django        | React/Next.js   | Docker              |
-| Node.js/Express      | Angular         | Kubernetes          |
-| Java/Spring Boot     | Vue.js          | Jenkins             |
+| **Lenguajes y Frameworks**        | **Bases de Datos & Backend**       | **Habilidades y Metodologías**         |
+|------------------------------------|------------------------------------|----------------------------------------|
+| TypeScript                         | MySQL                              | Gestión de proyectos                   |
+| Node.js                            | PostgreSQL                         | Planificación de proyectos             |
+| React.js                           | SQL                                | Ejecución de proyectos                 |
+| Python                             | Administración de bases de datos   | Capacidad de análisis                  |
+| PHP                                | Modelo-Vista-Controlador (MVC)     | Comunicación                           |
+| JavaScript                         | R Studio                           | Revisión de código                     |
+| HTML                               |                                    | Patrones de diseño                     |
+| CSS                                |                                    | Programación orientada a objetos (POO) |
+| Materialize CSS                    |                                    | Computación en la nube                 |
 
-- 🗄️ Bases de datos: **SQL Server**, **PostgreSQL**, **Oracle**.
-- ☁️ Soluciones en la nube: **AWS**, **Azure**, **Google Cloud**.
+---
+
+### 🛠️ Más Competencias:
+- **SaaS (Software como servicio)**
+- **Facilidad de adaptación**
+- **Investigación**
+- **Desarrollo web (Front-end & Back-end)**
+- **Administración de servidores**
+- **Gestión de servicios de TI**
 
 ---
 

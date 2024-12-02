@@ -25,7 +25,7 @@ Hola, soy un **Full Stack Developer** con más de **9 años de experiencia** en 
 |------------------------------------|------------------------------------|----------------------------------------|
 | TypeScript                         | MySQL                              | Gestión de proyectos                   |
 | Node.js                            | PostgreSQL                         | Planificación de proyectos             |
-| React.js                           | SQL                                | Ejecución de proyectos                 |
+| React.js                           | SQL Server                         | Ejecución de proyectos                 |
 | Python                             | Administración de bases de datos   | Capacidad de análisis                  |
 | PHP                                | Modelo-Vista-Controlador (MVC)     | Comunicación                           |
 | JavaScript                         | R Studio                           | Revisión de código                     |
